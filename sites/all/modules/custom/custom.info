@@ -1,0 +1,10 @@
+name = Custom Module
+description = Extends drupal's functionality (by Saurabh Bhardwaj).
+package = Custom
+core = 7.x
+
+; Developed by Saurabh Bhardwaj (saurabh.rocksoul@gmail.com)
+
+datestamp = "1506025885"
+; Disabling the ability to disable module :)
+;required = TRUE
